@@ -1,14 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Miami Metro BroadwayWorld Leaders</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <h1>Miami Metro BroadwayWorld Awards – Leaders</h1>
-  <div id="leaders">Loading…</div>
+body {
+  font-family: system-ui, sans-serif;
+  padding: 40px;
+}
 
-  <script src="app.js"></script>
-</body>
-</html>
+.category {
+  margin-bottom: 16px;
+}
+
+.category h2 {
+  margin: 0 0 4px 0;
+}
